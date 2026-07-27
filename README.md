@@ -19,3 +19,18 @@ Here are some ideas to get you started:
 - 🌱 I’m a graduate of STT Terpadu Nurul Fikri
 
 <img alt="my lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranggadiputra23&layout=compact&theme=tokyonight" />
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ranggadiputra23/ranggadiputra23/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ranggadiputra23/ranggadiputra23/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/ranggadiputra23/ranggadiputra23/output/github-snake.svg"
+  />
+</picture>
