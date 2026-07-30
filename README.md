@@ -16,9 +16,15 @@ Here are some ideas to get you started:
 -->
 <!-- <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ranggadiputra23&show_icons=true&theme=tokyonight" /> -->
 
+---
+
 - 🌱 I’m a graduate of STT Terpadu Nurul Fikri
 
+---
+
 <img alt="my lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranggadiputra23&layout=compact&theme=tokyonight" />
+
+---
 
 <picture>
   <source
