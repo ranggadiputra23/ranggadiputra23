@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img alt="my lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranggadiputra23&layout=compact&theme=tokyonight" />
-
----
+<!-- <img alt="my lang" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranggadiputra23&layout=compact&theme=tokyonight" /> -->
 
 <picture>
   <source
